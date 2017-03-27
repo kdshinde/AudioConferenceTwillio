@@ -8,7 +8,9 @@ using System.Web.Http;
 using ClickToCallAPI.Models;
 using System.Configuration;
 using System.Security.Policy;
+using ClickToCallAPI.Helper;
 using ClickToCallAPI.Services;
+using FluentScheduler;
 
 namespace ClickToCallAPI.Controllers
 {
@@ -50,14 +52,26 @@ namespace ClickToCallAPI.Controllers
             }
 
             var twilioNumber = ConfigurationManager.AppSettings["TwilioNumber"];            
-            string SalesNumber = Uri.EscapeDataString(callViewModel.SalesNumber);
+            string salesNumber = Uri.EscapeDataString(callViewModel.SalesNumber);
             
             //var uriHandler = GetUri(callViewModel.SalesNumber); 
-            var uriHandler = ConfigurationManager.AppSettings["AWSUrl"] + SalesNumber;
+            var uriHandler = ConfigurationManager.AppSettings["AWSUrl"] + salesNumber;
             await _notificationService.MakePhoneCallAsync(callViewModel.UserNumber, twilioNumber, uriHandler);
-                        
+         
             return Json(new { success = true, message = "Phone call incoming!" });
         }
+
+        [HttpPost]
+        [Route("ScheduleCall")]
+        public IHttpActionResult ScheduleCall([FromBody] SchedulerModel schedulerModel)
+        {
+            // JobManager.Initialize(new ScheduledJobRegistry(schedulerModel.Appointment));
+            JobManager.Initialize(new ScheduledJobRegistry(DateTime.Now.AddSeconds(60)));
+            JobManager.StopAndBlock();
+            return Json(new { success = true, message = "Phone call incoming!" });
+        }
+
+
 
         //private string GetUri(string salesNumber)
         //{
