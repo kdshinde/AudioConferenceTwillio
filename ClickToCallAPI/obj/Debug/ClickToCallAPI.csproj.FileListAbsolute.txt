@@ -1,0 +1,297 @@
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\ApplicationInsights.config
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\roslyn\csc.exe
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\roslyn\vbc.exe
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\roslyn\VBCSCompiler.exe
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\ClickToCallAPI.dll.config
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\ClickToCallAPI.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\ClickToCallAPI.pdb
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Antlr3.Runtime.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\EntityFramework.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\EntityFramework.SqlServer.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.Web.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.ApplicationInsights.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.IdentityModel.Logging.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.IdentityModel.Tokens.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Google.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Newtonsoft.Json.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Owin.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.Net.Http.Formatting.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Helpers.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Http.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Http.Owin.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Http.WebHost.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Mvc.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Optimization.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Razor.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.Web.WebPages.Deployment.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.Web.WebPages.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.Web.WebPages.Razor.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Twilio.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\WebGrease.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.Web.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.ApplicationInsights.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.IdentityModel.Tokens.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Newtonsoft.Json.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.Net.Http.Formatting.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Helpers.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Http.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Http.WebHost.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Mvc.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Optimization.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Razor.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.Web.WebPages.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.Web.WebPages.Deployment.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.Web.WebPages.Razor.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Twilio.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Antlr3.Runtime.pdb
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\EntityFramework.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\EntityFramework.SqlServer.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Google.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Http.Owin.xml
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\obj\Debug\ClickToCallAPI.dll
+c:\users\ketan.shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\obj\Debug\ClickToCallAPI.pdb
+C:\Users\Ketan.Shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\PhoneNumbers.dll
+C:\Users\Ketan.Shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\obj\Debug\ClickToCallAPI.csprojResolveAssemblyReference.cache
+C:\Users\Ketan.Shinde\documents\visual studio 2015\Projects\ClickToCallAPI\ClickToCallAPI\bin\Twilio.Twiml.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\ApplicationInsights.config
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\roslyn\csc.exe
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\roslyn\System.Collections.Immutable.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\roslyn\System.Reflection.Metadata.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\roslyn\vbc.exe
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\roslyn\VBCSCompiler.exe
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\roslyn\VBCSCompiler.exe.config
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\ClickToCallAPI.dll.config
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\ClickToCallAPI.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\ClickToCallAPI.pdb
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Antlr3.Runtime.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\EntityFramework.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\EntityFramework.SqlServer.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.Agent.Intercept.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.DependencyCollector.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.Web.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.WindowsServer.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.ApplicationInsights.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AspNet.Identity.Core.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.IdentityModel.Logging.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.IdentityModel.Tokens.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Cookies.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Facebook.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Google.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.OAuth.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Twitter.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Web.Infrastructure.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Newtonsoft.Json.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Owin.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\PhoneNumbers.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.Net.Http.Formatting.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Helpers.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Http.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Http.Owin.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Http.WebHost.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Mvc.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Optimization.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Razor.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.Web.WebPages.Deployment.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.Web.WebPages.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.Web.WebPages.Razor.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Twilio.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Twilio.Twiml.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\WebGrease.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.DependencyCollector.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.Web.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.WindowsServer.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.ApplicationInsights.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.IdentityModel.Tokens.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Newtonsoft.Json.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.Net.Http.Formatting.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Helpers.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Http.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Http.WebHost.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Mvc.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Optimization.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Razor.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.Web.WebPages.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.Web.WebPages.Deployment.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.Web.WebPages.Razor.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Twilio.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Antlr3.Runtime.pdb
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\EntityFramework.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\EntityFramework.SqlServer.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AspNet.Identity.Core.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Facebook.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Cookies.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.OAuth.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Google.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Twitter.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Http.Owin.xml
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\obj\Debug\ClickToCallAPI.csprojResolveAssemblyReference.cache
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\obj\Debug\ClickToCallAPI.dll
+O:\TLSUpgrade\ClickToCallAPI\ClickToCallAPI\obj\Debug\ClickToCallAPI.pdb
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\ApplicationInsights.config
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\roslyn\csc.exe
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\roslyn\vbc.exe
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\ClickToCallAPI.dll.config
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\ClickToCallAPI.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\ClickToCallAPI.pdb
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Antlr3.Runtime.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\EntityFramework.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Newtonsoft.Json.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Owin.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\PhoneNumbers.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Helpers.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Http.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Http.Owin.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Mvc.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Optimization.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Razor.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.Web.WebPages.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Twilio.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Twilio.Twiml.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\WebGrease.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Newtonsoft.Json.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Helpers.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Http.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Mvc.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Optimization.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Razor.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.Web.WebPages.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Twilio.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\EntityFramework.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\bin\System.Web.Http.Owin.xml
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\obj\Debug\ClickToCallAPI.dll
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\obj\Debug\ClickToCallAPI.pdb
+C:\Users\Ketan.Shinde\Desktop\ClickToCallAPI\ClickToCallAPI\obj\Debug\ClickToCallAPI.csprojResolveAssemblyReference.cache
