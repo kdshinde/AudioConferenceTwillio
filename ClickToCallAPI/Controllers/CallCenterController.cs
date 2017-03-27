@@ -33,7 +33,7 @@ namespace ClickToCallAPI.Controllers
         //}
 
         /// <summary>
-        /// Handle a POST from our web form and connect a call via REST API
+        /// Calls Twillio API to initiate phone conference
         /// </summary>
         // POST api/CallCenter/Call
         [HttpPost]
