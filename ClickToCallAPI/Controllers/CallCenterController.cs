@@ -7,7 +7,9 @@ using System.Threading.Tasks;
 using System.Web.Http;
 using ClickToCallAPI.Models;
 using System.Configuration;
+using System.IO;
 using System.Security.Policy;
+using System.Threading;
 using ClickToCallAPI.Helper;
 using ClickToCallAPI.Services;
 using FluentScheduler;
@@ -65,12 +67,23 @@ namespace ClickToCallAPI.Controllers
         [Route("ScheduleCall")]
         public IHttpActionResult ScheduleCall([FromBody] SchedulerModel schedulerModel)
         {
-            // JobManager.Initialize(new ScheduledJobRegistry(schedulerModel.Appointment));
-            JobManager.Initialize(new ScheduledJobRegistry(DateTime.Now.AddSeconds(60)));
+            //var registry = new Registry();
+            //registry.Schedule<SampleJob>().ToRunNow();
+            //JobManager.Initialize(registry);
+
+            JobManager.Initialize(new ScheduledJobRegistry(schedulerModel.Appointment));
+            //JobManager.AddJob(() => File.WriteAllText(@"C:\Users\Public\TestFolder\WriteText.txt", "Test"), (s) => s.ToRunEvery(5).Seconds());
+            //‌​JobManager.AddJob(() => Write(), s => s.ToRunEvery(2).Seconds());
             JobManager.StopAndBlock();
             return Json(new { success = true, message = "Phone call incoming!" });
         }
 
+        public void Write()
+        {
+            string text = "A class is the most powerful data type in C#. Like a structure, " +
+               "a class defines the data and behavior of the data type. ";
+            File.WriteAllText(@"C:\Users\Public\TestFolder\WriteText.txt", text);
+        }
 
 
         //private string GetUri(string salesNumber)

@@ -314,6 +314,7 @@ C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\ClickTo
 C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\Antlr3.Runtime.dll
 C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\EntityFramework.dll
 C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\FluentScheduler.dll
 C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\Microsoft.AI.Agent.Intercept.dll
 C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\Microsoft.AI.DependencyCollector.dll
 C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -355,6 +356,8 @@ C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\System.
 C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\Twilio.dll
 C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\Twilio.Twiml.dll
 C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\WebGrease.dll
+C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\FluentScheduler.pdb
+C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\FluentScheduler.xml
 C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\Microsoft.AI.DependencyCollector.xml
 C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\Microsoft.AI.Web.xml
@@ -391,9 +394,5 @@ C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\Microso
 C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\System.Web.Http.Owin.xml
-C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\obj\Debug\ClickToCallAPI.csprojResolveAssemblyReference.cache
 C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\obj\Debug\ClickToCallAPI.dll
 C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\obj\Debug\ClickToCallAPI.pdb
-C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\FluentScheduler.dll
-C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\FluentScheduler.pdb
-C:\Users\kdshinde\Source\Repos\AudioConferenceTwillio\ClickToCallAPI\bin\FluentScheduler.xml

@@ -27,6 +27,7 @@ namespace ClickToCallAPI.Helper
 
         public void Execute()
         {
+            //WriteToFile();
             lock (_lock)
             {
                 if (_shuttingDown)
@@ -34,10 +35,17 @@ namespace ClickToCallAPI.Helper
 
                 //PostJson(@"http://clicktocallapi.us-east-1.elasticbeanstalk.com/api/CallCenter/Call");
                 //PostJson(@"http://localhost:62688//api/CallCenter/Call");
-                var dbTest = new DbTest();
+                //var dbTest = new DbTest();
+                WriteToFile();
             }
         }
 
+        public void WriteToFile()
+        {
+            string text = "A class is the most powerful data type in C#. Like a structure, " +
+               "a class defines the data and behavior of the data type. ";
+            File.WriteAllText(@"C:\Users\Public\TestFolder\WriteText.txt", text);
+        }
 
         public void PostJson(string uri)
         {
